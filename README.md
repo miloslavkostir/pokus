@@ -1,3 +1,3 @@
 # pokus
 
-hello world foo bar
+hello world foo
