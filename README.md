@@ -1,3 +1,3 @@
 # pokus
 
-hello world dcdcd cd
+hello world dcdcd
